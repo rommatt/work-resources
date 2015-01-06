@@ -1,6 +1,3 @@
-work-resources
-==============
-
 <h1>Work Resources</h1>
 
 <h3>Portland</h3>
