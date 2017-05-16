@@ -15,3 +15,7 @@ https://pdxstartups.switchboardhq.com/
 http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews
 
 https://medium.com/@JonathanZWhite/cracking-the-front-end-interview-9a34cd46237#.3co4fchf7
+
+<h3>Certifications</h3>
+
+http://www.humanfactors.com/training/index.asp
