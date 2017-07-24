@@ -6,6 +6,8 @@ https://www.glassdoor.com/index.htm
 
 https://remote.co/
 
+https://www.flexjobs.com/
+
 <h3>Portland</h3>
 
 http://portlandtech.org/
