@@ -16,6 +16,8 @@ https://pdxstartups.switchboardhq.com/
 
 <h3>Interviewing</h3>
 
+http://www.mikeuxportfolio.com/page/thoughts/8/learn-from-my-mistakes--how-to-not-completely-bomb-a-job-interview/
+
 http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews
 
 https://medium.com/@JonathanZWhite/cracking-the-front-end-interview-9a34cd46237#.3co4fchf7
