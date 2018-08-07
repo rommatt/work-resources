@@ -16,6 +16,8 @@ https://pdxstartups.switchboardhq.com/
 
 <h3>Interviewing</h3>
 
+https://medium.com/playgroundinc/what-i-learned-from-200-design-interviews-fc4d99c1c314
+
 https://www.invisionapp.com/blog/standout-ux-candidate/
 
 http://www.mikeuxportfolio.com/page/thoughts/8/learn-from-my-mistakes--how-to-not-completely-bomb-a-job-interview/
