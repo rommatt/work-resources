@@ -1,5 +1,7 @@
 <h1>Work Resources</h1>
 
+https://css-tricks.com/jobs/
+
 https://weworkremotely.com/
 
 https://www.glassdoor.com/index.htm
