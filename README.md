@@ -12,6 +12,8 @@ https://www.flexjobs.com/
 
 <h3>Portland</h3>
 
+https://www.thesiliconforest.com/
+
 http://portlandtech.org/
 
 https://pdxstartups.switchboardhq.com/
