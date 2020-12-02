@@ -2,6 +2,8 @@
 
 https://css-tricks.com/jobs/
 
+https://www.careervault.io/
+
 https://weworkremotely.com/
 
 https://www.glassdoor.com/index.htm
