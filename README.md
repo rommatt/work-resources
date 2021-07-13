@@ -36,6 +36,9 @@ https://medium.com/@JonathanZWhite/cracking-the-front-end-interview-9a34cd46237#
 
 http://www.humanfactors.com/training/index.asp
 
+https://trailhead.salesforce.com/en. /// SalesForce certs
+https://www.reddit.com/r/personalfinance/comments/oj4xxc/42_yr_old_thinking_about_going_back_to_school/
+
 <h3>Post Quitting / Laid Off</h3>
 
 https://www.reddit.com/r/personalfinance/comments/6g146m/be_prepared_if_youre_resigning_or_quitting_have/
