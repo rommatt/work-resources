@@ -1,5 +1,7 @@
 <h1>Work Resources</h1>
 
+https://uxcareers.uie.com/
+
 https://css-tricks.com/jobs/
 
 https://www.careervault.io/
